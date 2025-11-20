@@ -1,0 +1,68 @@
+body{
+    font-family:Uefa supercup;
+    text-align: center;
+    background-color: #fffbf8;
+    margin-left: 200px;
+    margin-right: 200px;
+    .box1{
+        align-content: center;
+        background-color: #fae4d2;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;
+        height: 200px;
+        width: 330px;
+        display: inline-block;
+
+    }
+    .hero{
+        padding: 50px;
+        border-radius: 15px;
+        margin-bottom: 30px;
+        margin-left: 200px;
+        float: left;
+        text-align: left;
+        h1{
+            line-height: 0.5;
+            font-size: 70px;
+        }
+        
+    }
+    
+    .section2{
+        h1{
+            font-size: 50px;
+        }
+        margin-top: 300px;
+        margin-bottom: 50px;
+    }
+
+    .box2{
+        align-content: center;
+        background-color: #fae4d2;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;
+        height: 150px;
+        width: 320px;
+        display: inline-block;
+        margin-top: 20px;
+        background-color: gradient(to right, #f6d365, #fda085);
+    }
+    .form1{
+        text-align: left;
+        border: 2px solid black;
+        border-radius: 15px;
+        padding: 20px;
+        width: 200px;
+        float: right;
+    }
+    .form2{
+        text-align: center;
+        border: 2px solid black;
+        border-radius: 15px;
+        padding: 20px;
+        width: 800px;
+        margin: 0 auto;
+    }
+}

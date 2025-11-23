@@ -64,6 +64,7 @@ body{
         display: flex;
         flex-direction: column;
         float: right;
+        background-color: white;
     }
     .form2{
         text-align: center;
@@ -71,6 +72,7 @@ body{
         border-radius: 15px;
         padding: 20px;
         width: 800px;
+        background-color: white;
     }
 }
 .footer{
